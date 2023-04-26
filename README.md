@@ -13,7 +13,8 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif" width="600" height="300"/>
-  
+</div>
+
 ---
 
  ### :woman_technologist: About Me :
@@ -52,7 +53,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayeletYe)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
   
   
   
