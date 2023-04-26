@@ -8,12 +8,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+  
 </div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif" width="600" height="300"/>
-</div>
-
+  
 ---
 
  ### :woman_technologist: About Me :
@@ -51,7 +51,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayeletYe)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayeletYe)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+  
+  
+  
+  
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
